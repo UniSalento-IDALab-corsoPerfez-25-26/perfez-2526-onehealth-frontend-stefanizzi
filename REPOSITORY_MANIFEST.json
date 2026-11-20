@@ -1,0 +1,217 @@
+{
+  "component": "frontend",
+  "source_snapshot": "ae2566c6bbe0af70d9155dc0b810f1fb219168e0f74aa35828a617c8ca3ab26e",
+  "source_commit": "2a1b16af81ac1770110ffceb33bfea832d6a8ece",
+  "note": "Impronte della copia di lavoro; il commit originale può non includere tutte le modifiche locali.",
+  "source_files": [
+    {
+      "path": "app/dashboard/__init__.py",
+      "origin_path": "app/dashboard/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/dashboard/asl_quality_charts.py",
+      "origin_path": "app/dashboard/asl_quality_charts.py",
+      "sha256": "3c6b5121c646542df72436fd85608df3cf0c3e71aa199cb662c84bd434fc7279"
+    },
+    {
+      "path": "app/dashboard/data_lineage.py",
+      "origin_path": "app/dashboard/data_lineage.py",
+      "sha256": "c695ccbe5c8a4eb81ddc1c9e72bbf9f67d3ee69ec0f0c95e073793ff93d6c466"
+    },
+    {
+      "path": "app/dashboard/data_quality_catalog.py",
+      "origin_path": "app/dashboard/data_quality_catalog.py",
+      "sha256": "4416ad732ab83ba953b279484076c607b107ec04978d72e6af96cb961342d75d"
+    },
+    {
+      "path": "app/dashboard/dataset_charts.py",
+      "origin_path": "app/dashboard/dataset_charts.py",
+      "sha256": "402f71e0b2613a44fe08e38cc81d5b8810f64ae722cf33a6f536089247eca013"
+    },
+    {
+      "path": "app/dashboard/experimental_forecasts.py",
+      "origin_path": "app/dashboard/experimental_forecasts.py",
+      "sha256": "2ac0e807176a797bd359ff834b823998b98d3cb25df76d9ac25be317dc2ac9de"
+    },
+    {
+      "path": "app/dashboard/historical_series.py",
+      "origin_path": "app/dashboard/historical_series.py",
+      "sha256": "6d707e18a8559cf3eee43013fc2cefce454e0eff5ee65a67b2c3b6c3807878b5"
+    },
+    {
+      "path": "app/dashboard/main.py",
+      "origin_path": "app/dashboard/main.py",
+      "sha256": "f8a30e012e1c8a6da3e4465ecfcc8b99b140ac11583f52527dd38180c5aeaa50"
+    },
+    {
+      "path": "app/dashboard/main_api.py",
+      "origin_path": "app/dashboard/main_api.py",
+      "sha256": "3a9ffe0ee6511c12571babdf1a495b9bbe8d306ef3add753553db9443cf47edb"
+    },
+    {
+      "path": "app/dashboard/monitoring_timeseries.py",
+      "origin_path": "app/dashboard/monitoring_timeseries.py",
+      "sha256": "5ec169d9f1afa583271320fd540d03b5fc4f8d170e06c8ab5520ef2982dc5744"
+    },
+    {
+      "path": "app/dashboard/monthly_monitoring.py",
+      "origin_path": "app/dashboard/monthly_monitoring.py",
+      "sha256": "69866cc337a506d2acebe857140c9b24e5259937ba63bb8edbd6db210a8598e7"
+    },
+    {
+      "path": "app/dashboard/pages/1_Qualità_e_copertura_dei_dati.py",
+      "origin_path": "app/dashboard/pages/1_Qualità_e_copertura_dei_dati.py",
+      "sha256": "67ea61418c74e681e8898cdaf200245aada1a0b6755b96725c83ceec5d4abc66"
+    },
+    {
+      "path": "app/dashboard/pages/quality_coverage.py",
+      "origin_path": "app/dashboard/pages/quality_coverage.py",
+      "sha256": "4d9ef486a6c2af97cf53d254b82e63da4277be90831903e05040f4776930adec"
+    },
+    {
+      "path": "app/dashboard/recent_data.py",
+      "origin_path": "app/dashboard/recent_data.py",
+      "sha256": "4f94b693f5912676574722921266afd9def613b531004a96b655870d68a00719"
+    },
+    {
+      "path": "app/dashboard/research_overview.py",
+      "origin_path": "app/dashboard/research_overview.py",
+      "sha256": "6c1be1713f9a97f138c31f4fa38efea66b9c569e97162dc0f2fdea1b6714a6d1"
+    },
+    {
+      "path": "app/dashboard/ridge_explanations.py",
+      "origin_path": "app/dashboard/ridge_explanations.py",
+      "sha256": "a7e26a99c3141747c6239120021f6b2bf733ea162aa042a709159f19bcdd5758"
+    },
+    {
+      "path": "app/dashboard/sidebar_menu.py",
+      "origin_path": "app/dashboard/sidebar_menu.py",
+      "sha256": "be70ea4077259de3c991b692dd28f11341a1cc0203093ccba3de3953b16c7a70"
+    },
+    {
+      "path": "app/dashboard/territorial_overview.py",
+      "origin_path": "app/dashboard/territorial_overview.py",
+      "sha256": "a54895541607ff06e849ba69e445dd3903a390590b1050450992b2a87ee44450"
+    },
+    {
+      "path": "app/dashboard/territorial_priorities.py",
+      "origin_path": "app/dashboard/territorial_priorities.py",
+      "sha256": "4d693f5f93c16b48874871eb440baab879f80a4ac032944d84cd349b21d1e886"
+    },
+    {
+      "path": "app/dashboard/territory_labels.py",
+      "origin_path": "app/dashboard/territory_labels.py",
+      "sha256": "17ba1ac44044d29322d84a4e7f808569ac3cd89bd4739fe038692c0a6bae9d1e"
+    },
+    {
+      "path": "app/dashboard/update_status.py",
+      "origin_path": "app/dashboard/update_status.py",
+      "sha256": "f592113f5e19a577a6cf7c7abd6eb6b1b1717359bf83799a471039f889402eb7"
+    },
+    {
+      "path": "app/dashboard/updated_results.py",
+      "origin_path": "app/dashboard/updated_results.py",
+      "sha256": "8065b6a68b51ebb31e4e58e1d91ee09ad1a0a6b8273b2f24b3bb885e6fcbb24a"
+    },
+    {
+      "path": "app/dashboard/weather_context.py",
+      "origin_path": "app/dashboard/weather_context.py",
+      "sha256": "97afa62565aea4811611a19e5580de52209578c680402bcdd79b7071aef79c5c"
+    }
+  ],
+  "runtime_files": [
+    {
+      "path": "app/dashboard/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/dashboard/asl_quality_charts.py",
+      "sha256": "3c6b5121c646542df72436fd85608df3cf0c3e71aa199cb662c84bd434fc7279"
+    },
+    {
+      "path": "app/dashboard/data_lineage.py",
+      "sha256": "c695ccbe5c8a4eb81ddc1c9e72bbf9f67d3ee69ec0f0c95e073793ff93d6c466"
+    },
+    {
+      "path": "app/dashboard/data_quality_catalog.py",
+      "sha256": "4416ad732ab83ba953b279484076c607b107ec04978d72e6af96cb961342d75d"
+    },
+    {
+      "path": "app/dashboard/dataset_charts.py",
+      "sha256": "402f71e0b2613a44fe08e38cc81d5b8810f64ae722cf33a6f536089247eca013"
+    },
+    {
+      "path": "app/dashboard/experimental_forecasts.py",
+      "sha256": "2ac0e807176a797bd359ff834b823998b98d3cb25df76d9ac25be317dc2ac9de"
+    },
+    {
+      "path": "app/dashboard/historical_series.py",
+      "sha256": "6d707e18a8559cf3eee43013fc2cefce454e0eff5ee65a67b2c3b6c3807878b5"
+    },
+    {
+      "path": "app/dashboard/main.py",
+      "sha256": "f8a30e012e1c8a6da3e4465ecfcc8b99b140ac11583f52527dd38180c5aeaa50"
+    },
+    {
+      "path": "app/dashboard/main_api.py",
+      "sha256": "3a9ffe0ee6511c12571babdf1a495b9bbe8d306ef3add753553db9443cf47edb"
+    },
+    {
+      "path": "app/dashboard/monitoring_timeseries.py",
+      "sha256": "5ec169d9f1afa583271320fd540d03b5fc4f8d170e06c8ab5520ef2982dc5744"
+    },
+    {
+      "path": "app/dashboard/monthly_monitoring.py",
+      "sha256": "69866cc337a506d2acebe857140c9b24e5259937ba63bb8edbd6db210a8598e7"
+    },
+    {
+      "path": "app/dashboard/pages/1_Qualità_e_copertura_dei_dati.py",
+      "sha256": "67ea61418c74e681e8898cdaf200245aada1a0b6755b96725c83ceec5d4abc66"
+    },
+    {
+      "path": "app/dashboard/pages/quality_coverage.py",
+      "sha256": "4d9ef486a6c2af97cf53d254b82e63da4277be90831903e05040f4776930adec"
+    },
+    {
+      "path": "app/dashboard/recent_data.py",
+      "sha256": "4f94b693f5912676574722921266afd9def613b531004a96b655870d68a00719"
+    },
+    {
+      "path": "app/dashboard/research_overview.py",
+      "sha256": "6c1be1713f9a97f138c31f4fa38efea66b9c569e97162dc0f2fdea1b6714a6d1"
+    },
+    {
+      "path": "app/dashboard/ridge_explanations.py",
+      "sha256": "a7e26a99c3141747c6239120021f6b2bf733ea162aa042a709159f19bcdd5758"
+    },
+    {
+      "path": "app/dashboard/sidebar_menu.py",
+      "sha256": "be70ea4077259de3c991b692dd28f11341a1cc0203093ccba3de3953b16c7a70"
+    },
+    {
+      "path": "app/dashboard/territorial_overview.py",
+      "sha256": "a54895541607ff06e849ba69e445dd3903a390590b1050450992b2a87ee44450"
+    },
+    {
+      "path": "app/dashboard/territorial_priorities.py",
+      "sha256": "4d693f5f93c16b48874871eb440baab879f80a4ac032944d84cd349b21d1e886"
+    },
+    {
+      "path": "app/dashboard/territory_labels.py",
+      "sha256": "17ba1ac44044d29322d84a4e7f808569ac3cd89bd4739fe038692c0a6bae9d1e"
+    },
+    {
+      "path": "app/dashboard/update_status.py",
+      "sha256": "f592113f5e19a577a6cf7c7abd6eb6b1b1717359bf83799a471039f889402eb7"
+    },
+    {
+      "path": "app/dashboard/updated_results.py",
+      "sha256": "8065b6a68b51ebb31e4e58e1d91ee09ad1a0a6b8273b2f24b3bb885e6fcbb24a"
+    },
+    {
+      "path": "app/dashboard/weather_context.py",
+      "sha256": "97afa62565aea4811611a19e5580de52209578c680402bcdd79b7071aef79c5c"
+    }
+  ]
+}

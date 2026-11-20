@@ -1,0 +1,21 @@
+# Credenziali e configurazioni locali
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# Dati, risultati, ambienti e copie di lavoro
+/data/
+/reports/
+/backup_codice/
+/backup_dashboard/
+/.onehealth_runtime/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+*.bak*
+*.pre_*backup
+*.zip

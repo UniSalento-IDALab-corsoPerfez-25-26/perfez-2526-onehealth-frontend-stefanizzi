@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+pyarrow
+sqlalchemy
+psycopg[binary]
+geoalchemy2
+httpx
+requests
+pydantic-settings
+python-dotenv
+shapely
+streamlit>=1.40,<2
+plotly>=6,<7
+geopandas>=1,<2
+typer>=0.12,<1
+rich>=13,<15
